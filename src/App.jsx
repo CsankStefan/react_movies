@@ -20,7 +20,7 @@ const swimUpVariants = {
 };
 
 
-const API_URL = "https://www.omdbapi.com/?i=tt3896198&apikey=2051215d";
+const API_URL = "";
 
 const App = () => {
   const [searchTerm, setSearchTerm] = useState("");
